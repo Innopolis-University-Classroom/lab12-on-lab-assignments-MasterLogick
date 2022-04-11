@@ -1,3 +1,5 @@
+package problem1;
+
 public class Message {
     private String message;
 

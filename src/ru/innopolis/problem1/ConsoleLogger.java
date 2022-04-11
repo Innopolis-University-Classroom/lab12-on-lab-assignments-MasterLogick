@@ -1,3 +1,5 @@
+package problem1;
+
 public class ConsoleLogger extends Logger {
 
     @Override

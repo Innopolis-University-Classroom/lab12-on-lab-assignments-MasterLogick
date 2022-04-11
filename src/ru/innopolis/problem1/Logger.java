@@ -1,3 +1,5 @@
+package problem1;
+
 public abstract class Logger {
     private Logger next;
 
